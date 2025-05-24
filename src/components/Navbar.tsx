@@ -87,7 +87,9 @@ const Navbar = () => {
             <a href="#projects" className="nav-item text-center" onClick={() => setIsMenuOpen(false)}>Projects</a>
             <a href="#skills" className="nav-item text-center" onClick={() => setIsMenuOpen(false)}>Skills</a>
             <a href="#contact" className="nav-item text-center" onClick={() => setIsMenuOpen(false)}>Contact</a>
-            <a href="#Resume" className="nav-item text-center" onClick={() => setIsMenuOpen(false)}>Resume</a>
+            <a href="https://drive.google.com/file/d/1kQFyykLzrE4M6LgsIJcIF3lN1pL2YWFd/view?usp=drive_link" className="nav-item text-center" target="_blank"
+             rel="noopener noreferrer"onClick={() => setIsMenuOpen(false)}>Resume</a>
+
             <div className="flex justify-center space-x-4 mt-2">
               <a 
                 href="https://github.com/KartikLutimath" 
