@@ -37,6 +37,9 @@ const Hero = () => {
           <a href="https://github.com/KartikLutimath" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors transform hover:translate-y-[-2px]">
             <Github size={18} /> github.com/KartikLutimath
           </a>
+          <a href="https://leetcode.com/u/Kartik_sl20/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors transform hover:translate-y-[-2px]">
+            <Leetcode size={18} /> leetcode.com/KartikLutimath
+          </a>
         </div>
         
         <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up animate-delayLg">
